@@ -1,4 +1,5 @@
 HTML tags
+
   	\[\s*br[^>]*\](.*?)\[\s*/\s*br\]
 		matchs: [br] href="/life">life[/br]
 		
